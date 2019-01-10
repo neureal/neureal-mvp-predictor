@@ -1,2 +1,2 @@
 # neureal-mvp-predictor
-Neureal MVP plugin. Example algorithm for predicting live data streams using CNTK/CUDNN
+Neureal MVP plugin. Example algorithm for forecasting live data streams.
